@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# local sweep artifacts and FLORES dataset
+sweep.log
+run.log
+flores200_dataset/
